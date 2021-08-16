@@ -10,8 +10,11 @@
 <h1 align="center">Odoo13</h1>
 <h2 align="center">
 ## I greet you, my dear, potential employer :grey_exclamation::grey_exclamation::grey_exclamation:
+  
 ### It so happened that today you visited this repository in order to test my skills in working with Odoo.
+  
 ### There will be three modules in this repository, with links established between them. 
+  
 ### To work on your local system, you just need to clone them to your folder with addons
 
 ![Image alt](https://github.com/DmitriyLadutko/Odoo13_addons_test/blob/master/Multimedia/%D0%A0%D0%B5%D0%BA%D0%B8%20%D0%AD%D0%B4%D0%B5%D0%BC%D0%B0.gif)
